@@ -1,4 +1,4 @@
-package com.interview.DesignPattern.prototype;
+package com.interview.DesignPattern.creationalDesignPattern.prototype;
 
 public class Employee implements Cloneable{
 
